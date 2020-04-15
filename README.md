@@ -41,4 +41,4 @@ Capstone for UC Berkeley MIDS Spring 2020 - Aditi Hegde, Vivian Lu, TK Truong, D
 * Our non-comercial Salesforce developer org is available for access at https://jonass-dev-ed.my.salesforce.com, which hosts a test version of our provider portal. 
 * Our main Salesforce enhancement is the Jonas Lightning Console app, which includes 3 custom objects, EHR components on Contact object, 3 Lightning pages, 1 workflow, 1 process builder, and 1 flow. 
 * Model classification results and Jonas bot transcripts are integrated from Firebase Realtime Database to Salesforce using a cloud function (index.js and package.json in [Firebase_Salesforce_Cloud_Func](https://github.com/dwang-ischool/Jonas/tree/master/Firebase_Salesforce_Cloud_Func))
-* Model results, provider verification and provider feedback data are replicated to from Salesforce to GCP BigQuery using an daily ETL  made possible by a connector provided by [Stich](https://www.stitchdata.com/)
+* Model results, provider verification and provider feedback data are replicated to from Salesforce to GCP BigQuery using an daily ETL through a connector provided by [Stich](https://www.stitchdata.com/)
