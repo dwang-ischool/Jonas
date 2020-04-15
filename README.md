@@ -1,4 +1,4 @@
-# Jonas_Capstone_Spring_2020
+# Jonas - UC Berkeley MIDS Capstone Project, Spring 2020
 Capstone for UC Berkeley MIDS Spring 2020 - Aditi Hegde, Vivian Lu, TK Truong, Dili Wang
 
 ## I. Preprocessing and EDA 
