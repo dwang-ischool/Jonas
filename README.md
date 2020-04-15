@@ -32,5 +32,9 @@ Capstone for UC Berkeley MIDS Spring 2020 - Aditi Hegde, Vivian Lu, TK Truong, D
     * See FlowXO_Cloud_Func folder for the index.js and package.json
 
 ## V. Django 
+* Django Application is hosted on the compute engine (GCP).
+* The model is triggered using cloud function - TriggerModel, once the interaction between user and BOT have ended.
+* Useful References to set up Django : 
+    * https://dzone.com/articles/best-python-django-tutorial-for-beginners-with-pro
 
 ## VI. Salesforce
