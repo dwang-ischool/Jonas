@@ -63,7 +63,7 @@ pycparser==2.20
 pycrypto==2.6.1
 pydata-google-auth==0.3.0
 pydocstyle==5.0.2
-Pygments==2.6.1
+Pygments==2.7.4
 python-dateutil==2.8.1
 python-jsonrpc-server==0.3.4
 python-jwt==3.2.6
