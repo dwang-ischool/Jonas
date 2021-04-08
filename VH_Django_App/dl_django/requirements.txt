@@ -7,7 +7,7 @@ chardet==3.0.4
 click==7.1.1
 cryptography==2.8
 decorator==4.4.2
-Django==3.0.4
+Django==3.0.14
 djangorestframework==3.11.0
 firebase==3.0.1
 gast==0.2.2
