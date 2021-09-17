@@ -16,7 +16,6 @@ Capstone for UC Berkeley MIDS Spring 2020 - Aditi Hegde, Vivian Lu, TK Truong, D
     * All attempts at creating TFIDF binary models are zipped in notebook.tar.gz
 * XLNet: See XLNetModeling 
     * Useful references: 
-        * https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
         * https://mccormickml.com/2019/09/19/XLNet-fine-tuning/
         * Training code heavily drawn from: https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df
     * Trained model: xlnet_hashp_hamming0402.bin 
